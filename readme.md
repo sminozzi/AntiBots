@@ -7,16 +7,18 @@ License: GPLv2 or later
 
 
 == Description ==
+
 **Anti Bots**
 
 An Internet Bot, also known as web robot, WWW robot or simply bot, the spider is a software application that runs automated tasks (scripts) over the Internet.  Bad bots consume bandwidth, slow down your server, steal your content and look for vulnerabilities to compromise your server.
+
 Anti Bots plugin has a new and unprecedented approach.  Anti Bots Plugin block all bots (less google and Microsoft Bing) and it is up to you to create one bot whitelist because not all bots are bad for you.
 You can activate the Anti Bots Plugin in learning mode (test mode) and create your whitelist without the risk of block bots good for you.  Anti Bots Plugin has a nice visitors log to help you to do that.
 Easy to use! No robots.txt neither .htaccess file required.
 Anti Bots plugin will protect also the Login Form from Brute Force Attacks.
 No DNS or Cloud Traffic Redirection. No Slow Down Your Site! No Google penalties for slow sites.
 
-== This plugin is very easy to install and configure. Just 3 or 4 clicks and it will be protecting your site from bots and hackers. However, if you are still being heavily attacked, consider installing the free version of our <a href="https://wordpress.org/plugins/stopbadbots">StopBadBots plugin</a>, which has many more features. ==
+## This plugin is very easy to install and configure. Just 3 or 4 clicks and it will be protecting your site from bots and hackers. However, if you are still being heavily attacked, consider installing the free version of our <a href="https://wordpress.org/plugins/stopbadbots">StopBadBots plugin</a>, which has many more features. ##
 
 Please check out our demo video and documentation at:
 <a href="https://antibotsplugin.com/help/">Online Guide</a>
