@@ -1,4 +1,4 @@
-# WordPress Stop and Block bots plugin Anti bots Plugin  #
+# WordPress Stop and Block bots Anti bots Plugin  #
 
 License: GPLv2 or later
 
